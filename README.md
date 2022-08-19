@@ -17,7 +17,7 @@ Clone the repository and run `npm install` inside of its directory. Add db crede
 
 ## Usage 
 
-Run `npm start` and answer the series of prompts. Watch the following [video](todo) if needed.
+Run `npm start` and answer the series of prompts. Watch the following [video](https://watch.screencastify.com/v/wfjoFgTvamevygQSrBIA) if needed.
 
 ## Questions
 
