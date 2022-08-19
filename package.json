@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrrbbbsss/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrrbbbsss/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/rrrbbbsss/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "0.10.0",
+    "dotenv": "16.0.1",
+    "inquirer": "8.2.4",
+    "mysql2": "2.3.3"
+  }
+}
